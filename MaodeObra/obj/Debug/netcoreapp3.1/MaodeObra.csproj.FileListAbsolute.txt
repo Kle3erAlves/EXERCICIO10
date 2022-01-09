@@ -1,0 +1,13 @@
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\MaodeObra\MaodeObra\bin\Debug\netcoreapp3.1\MaodeObra.exe
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\MaodeObra\MaodeObra\bin\Debug\netcoreapp3.1\MaodeObra.deps.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\MaodeObra\MaodeObra\bin\Debug\netcoreapp3.1\MaodeObra.runtimeconfig.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\MaodeObra\MaodeObra\bin\Debug\netcoreapp3.1\MaodeObra.runtimeconfig.dev.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\MaodeObra\MaodeObra\bin\Debug\netcoreapp3.1\MaodeObra.dll
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\MaodeObra\MaodeObra\bin\Debug\netcoreapp3.1\MaodeObra.pdb
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\MaodeObra\MaodeObra\obj\Debug\netcoreapp3.1\MaodeObra.csprojAssemblyReference.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\MaodeObra\MaodeObra\obj\Debug\netcoreapp3.1\MaodeObra.AssemblyInfoInputs.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\MaodeObra\MaodeObra\obj\Debug\netcoreapp3.1\MaodeObra.AssemblyInfo.cs
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\MaodeObra\MaodeObra\obj\Debug\netcoreapp3.1\MaodeObra.csproj.CoreCompileInputs.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\MaodeObra\MaodeObra\obj\Debug\netcoreapp3.1\MaodeObra.dll
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\MaodeObra\MaodeObra\obj\Debug\netcoreapp3.1\MaodeObra.pdb
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\MaodeObra\MaodeObra\obj\Debug\netcoreapp3.1\MaodeObra.genruntimeconfig.cache
