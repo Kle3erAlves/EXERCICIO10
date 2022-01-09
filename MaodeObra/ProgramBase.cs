@@ -3,9 +3,10 @@ using System.Globalization;
 using System.Collections.Generic;
 using MaodeObra.Entities;
 
+
 namespace MaodeObra
 {
-    class Program
+    internal class ProgramBase
     {
         static void Main(string[] args)
         {

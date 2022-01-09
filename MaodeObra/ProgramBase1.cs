@@ -1,11 +1,6 @@
-﻿using System;
-using System.Globalization;
-using System.Collections.Generic;
-using MaodeObra.Entities;
-
-namespace MaodeObra
+﻿namespace MaodeObra
 {
-    class Program
+    internal class ProgramBase1
     {
         static void Main(string[] args)
         {
